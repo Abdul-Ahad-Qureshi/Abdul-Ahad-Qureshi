@@ -41,19 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulAhadQureshi&show_icons=true&theme=radical" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAhadQureshi&theme=radical" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAhadQureshi&layout=compact&theme=radical" height="160px"/>
-</p>
-
----
-
 ## 🤝 Connect With Me  
 
 <p align="left">
