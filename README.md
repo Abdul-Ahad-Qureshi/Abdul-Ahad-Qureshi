@@ -27,17 +27,27 @@
 
 ## 🏆 Certifications & Achievements  
 
-- 🎓 **JavaScript (Basic to Advanced)** – Udemy  
-- 🎓 **HTML & CSS Advanced** – Udemy  
-- 🎓 **WordPress Website Through Hostinger** – Udemy  
-- 🎬 **Editing Viral Videos (CapCut)** – Udemy  
+- 🎓 [JavaScript (Basic to Advanced) – Udemy](https://www.udemy.com/certificate/UC-1d407ea4-8dd7-462f-a9c1-f716feb639d0/)  
+- 🎓 [HTML & CSS Advanced – Udemy](https://www.udemy.com/certificate/UC-913a5abd-9761-4c4d-a4b4-87fd7cc380ae/)  
+- 🎓 [WordPress Website Through Hostinger – Udemy](https://www.udemy.com/certificate/UC-a0683a03-e0d3-4f98-950c-56574d952ca9/)  
+- 🎬 [Editing Viral Videos (CapCut) – Udemy](https://www.udemy.com/certificate/UC-72ad97d5-7282-42d9-b7ff-279020e6cae7/)  
 - 📜 **Web Development Training** – Buraq Institute  
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-Certificate-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/HTML%20&%20CSS-Cert-blue?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/WordPress-Certification-21759b?style=for-the-badge&logo=wordpress" />
+  <a href="https://www.udemy.com/certificate/UC-1d407ea4-8dd7-462f-a9c1-f716feb639d0/">
+    <img src="https://img.shields.io/badge/JavaScript-Certificate-yellow?style=for-the-badge&logo=javascript" />
+  </a>
+  <a href="https://www.udemy.com/certificate/UC-913a5abd-9761-4c4d-a4b4-87fd7cc380ae/">
+    <img src="https://img.shields.io/badge/HTML%20&%20CSS-Cert-blue?style=for-the-badge&logo=html5" />
+  </a>
+  <a href="https://www.udemy.com/certificate/UC-a0683a03-e0d3-4f98-950c-56574d952ca9/">
+    <img src="https://img.shields.io/badge/WordPress-Certification-21759b?style=for-the-badge&logo=wordpress" />
+  </a>
+  <a href="https://www.udemy.com/certificate/UC-72ad97d5-7282-42d9-b7ff-279020e6cae7/">
+    <img src="https://img.shields.io/badge/CapCut%20Editing-Cert-ff0050?style=for-the-badge&logo=capcut" />
+  </a>
 </p>
+
 
 ---
 
