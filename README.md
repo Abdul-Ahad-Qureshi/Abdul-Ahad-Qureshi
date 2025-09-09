@@ -23,8 +23,6 @@
 - **Pharmacy Management System** – Java & MySQL-based project for pharmacy workflows.  
 - **Coin Toss Flip** – Interactive project with engaging UI/UX.  
 
-📌 Explore more projects on my GitHub 👉 [Abdul-Ahad-Qureshi](https://github.com/Abdul-Ahad-Qureshi)  
-
 ---
 
 ## 🏆 Certifications & Achievements  
