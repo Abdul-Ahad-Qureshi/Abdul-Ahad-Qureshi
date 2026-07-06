@@ -2,7 +2,7 @@
 
   <!-- Massive Responsive Hero Banner -->
   <a href="https://abdul-ahad-dev.framer.website/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&height=100&lines=Abdul+Ahad+Qureshi;BSSE;Crafting+Scalable+%26+Secure+Web+Apps" alt="Typing SVG Banner" width="100%" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&height=100&lines=Abdul+Ahad+Qureshi;Frontend-Focused+Full-Stack+Web+Developer;Bachelor+of+Science+in+Software+Engineering;Crafting+Scalable+%26+Secure+Web+Apps" alt="Typing SVG Banner" width="100%" />
   </a>
 
   <br />
@@ -92,9 +92,10 @@
 
   <br /><br />
 
-  <!-- Fixed Side-by-Side responsive block using stable endpoints -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdul-Ahad-Qureshi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Ahad-Qureshi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+  <!-- Fixed Side-by-Side responsive block without forced width scaling -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Ahad-Qureshi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Ahad-Qureshi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
