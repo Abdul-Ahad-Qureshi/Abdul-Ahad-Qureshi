@@ -90,13 +90,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Ahad-Qureshi&theme=tokyo-night&hide_border=true&color=38BDF8" alt="Activity Graph Banner" width="100%" />
   </a>
 
-  <br /><br />
-
-  <!-- Clean, Centered Streak Block -->
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=Abdul-Ahad-Qureshi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </p>
-
 </div>
 
 <br />
