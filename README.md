@@ -92,10 +92,11 @@
 
   <br /><br />
 
-  <!-- Fixed Side-by-Side responsive block with hard cache busters -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Ahad-Qureshi&layout=compact&theme=tokyonight&hide_border=true&ignore_cache=true&random=9999" alt="Top Languages" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Abdul-Ahad-Qureshi&theme=tokyonight&hide_border=true&ignore_cache=true&random=9999" alt="GitHub Streak" />
+  <!-- Fixed Side-by-Side Block -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdul-Ahad-Qureshi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://streak-stats.demolab.com/?user=Abdul-Ahad-Qureshi&theme=tokyonight&hide_border=true&ignore_cache=true&random=9999" alt="GitHub Streak" />
+  </p>
 
 </div>
 
