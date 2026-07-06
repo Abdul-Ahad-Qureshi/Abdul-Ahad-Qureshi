@@ -4,9 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&height=100&lines=Abdul+Ahad+Qureshi;Frontend-Focused+Full-Stack+Developer;BSSE+%40+Sir+Syed+CASE+Institute+of+Technology;Crafting+Scalable+%26+Secure+Web+Apps" alt="Typing SVG Banner" width="100%" />
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=Abdul-Ahad-Qureshi&label=Dashboard%20Views&color=0e75b6&style=flat-square" alt="Profile Views Counter" />
-
-  <br /><br />
+  <br />
 
   <a href="https://abdul-ahad-dev.framer.website/" target="_blank">
     <img src="https://img.shields.io/badge/Live_Portfolio-0D1117?style=for-the-badge&logo=framer&logoColor=00AAFF" alt="Portfolio" />
@@ -80,19 +78,19 @@
 <div align="center">
   
   <a href="https://github.com/Abdul-Ahad-Qureshi">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Ahad-Qureshi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="GitHub Stats Banner" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Ahad-Qureshi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&v=1" alt="GitHub Stats Banner" width="100%" />
   </a>
 
   <br /><br />
 
   <a href="https://github.com/Abdul-Ahad-Qureshi">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Ahad-Qureshi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8" alt="Activity Graph Banner" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Ahad-Qureshi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&v=1" alt="Activity Graph Banner" width="100%" />
   </a>
 
   <br /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Ahad-Qureshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Abdul-Ahad-Qureshi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Ahad-Qureshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Abdul-Ahad-Qureshi&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="GitHub Streak" width="48%" />
 
 </div>
 
