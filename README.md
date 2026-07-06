@@ -79,10 +79,6 @@
 
 <!-- Full Width Big Banners -->
 <div align="center">
-  
-  <a href="https://github.com/Abdul-Ahad-Qureshi">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Ahad-Qureshi&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8" alt="GitHub Stats Banner" width="100%" />
-  </a>
 
   <br /><br />
 
