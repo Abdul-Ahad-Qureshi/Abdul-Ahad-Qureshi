@@ -81,21 +81,21 @@
 <div align="center">
   
   <a href="https://github.com/Abdul-Ahad-Qureshi">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Ahad-Qureshi&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&ignore_cache=true&random=9999" alt="GitHub Stats Banner" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Ahad-Qureshi&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8" alt="GitHub Stats Banner" width="100%" />
   </a>
 
   <br /><br />
 
   <a href="https://github.com/Abdul-Ahad-Qureshi">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Ahad-Qureshi&theme=tokyo-night&hide_border=true&color=38BDF8&ignore_cache=true&random=9999" alt="Activity Graph Banner" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Ahad-Qureshi&theme=tokyo-night&hide_border=true&color=38BDF8" alt="Activity Graph Banner" width="100%" />
   </a>
 
   <br /><br />
 
-  <!-- Fixed Side-by-Side Block -->
+  <!-- Fixed Side-by-Side Block with corrected routing -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdul-Ahad-Qureshi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    <img src="https://streak-stats.demolab.com/?user=Abdul-Ahad-Qureshi&theme=tokyonight&hide_border=true&ignore_cache=true&random=9999" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Ahad-Qureshi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://streak-stats.demolab.com/?user=Abdul-Ahad-Qureshi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </p>
 
 </div>
