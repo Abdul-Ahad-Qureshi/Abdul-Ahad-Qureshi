@@ -24,7 +24,7 @@
 
 ## ⚡ Executive Briefing
 
-> **Software Engineering Student ** with a specialized focus on frontend architecture. I excel at translating complex logic into highly responsive, visually engaging web interfaces, while ensuring seamless integration with robust backend databases and innovative machine learning models.
+> Software Engineering Student with a specialized focus on frontend architecture. I excel at translating complex logic into highly responsive, visually engaging web interfaces, while ensuring seamless integration with robust backend databases and innovative machine learning models.
 
 - 🎓 Pursuing a **B.S. in Software Engineering**.
 - 🌱 Currently engineering **PlantIQ**, a machine learning project for smart leaf-based disease detection utilizing the MobileNetV2 architecture.
