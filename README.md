@@ -25,7 +25,7 @@
 
 ### 👋 About Me
 
-I'm a **Software Engineer** (B.S. Software Engineering, **Sir Syed CASE Institute of Technology**, 2022–2026) working across full-stack web development, deep learning, and cybersecurity tooling. I enjoy taking complex problems—whether that's training hybrid vision transformers on tens of thousands of images or intercepting zero-day phishing domains—and turning them into clean, reliable software.
+I'm a **Software Engineer** (B.S. Software Engineering, **Sir Syed CASE Institute of Technology**, 2022–2026) working across full-stack web development, deep learning, and cybersecurity tooling. I enjoy taking complex problems whether that's training hybrid vision transformers on tens of thousands of images or intercepting zero-day phishing domains and turning them into clean, reliable software.
 
 - 🌿 **Completed Research & FYP:** Designed and trained **PlantIQ**, a plant disease diagnostic pipeline using **Coordinate Attention & Hybrid Transformers (CA-HT)** across **54,000 PlantVillage images**.
 - 🛡️ **Recent Engineering:** Built real-time phishing interception and threat intelligence tools during my AI/ML internship at **Zynvex Solutions**, following earlier web engineering work at **HA Technologies**.
