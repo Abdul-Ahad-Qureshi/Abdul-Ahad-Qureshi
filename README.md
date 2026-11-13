@@ -1,95 +1,118 @@
 <div align="center">
 
-  <!-- Massive Responsive Hero Banner -->
   <a href="https://abdul-ahad-dev.framer.website/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&height=100&lines=Abdul+Ahad+Qureshi;Frontend-Focused+Full-Stack+Web+Developer;Bachelor+of+Science+in+Software+Engineering;Crafting+Scalable+%26+Secure+Web+Apps" alt="Typing SVG Banner" width="100%" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=70&lines=Hey%2C+I'm+Abdul+Ahad+Qureshi+%F0%9F%91%8B;Frontend-Focused+Full-Stack+Developer;Software+Engineering+Undergrad;Building+Fast%2C+Accessible+Web+Interfaces" alt="Typing SVG" width="100%" />
   </a>
 
-  <br />
-
-  <!-- Action Dock / Quick Links -->
-  <a href="https://abdul-ahad-dev.framer.website/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Portfolio-0D1117?style=for-the-badge&logo=framer&logoColor=00AAFF" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/abdul-ahad-developer/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ahad97577@gmail.com">
-    <img src="https://img.shields.io/badge/Direct_Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-  </a>
+  <p align="center">
+    <a href="https://abdul-ahad-dev.framer.website/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-abdul--ahad--dev-0F172A?style=for-the-badge&logo=framer&logoColor=38BDF8&labelColor=090D16" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/abdul-ahad-developer/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=090D16" alt="LinkedIn" />
+    </a>
+    <a href="mailto:ahad97577@gmail.com">
+      <img src="https://img.shields.io/badge/Email-ahad97577%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=090D16" alt="Email" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-## ⚡ Executive Briefing
+### About Me
 
-> Software Engineering Student with a specialized focus on frontend architecture. I excel at translating complex logic into highly responsive, visually engaging web interfaces, while ensuring seamless integration with robust backend databases and innovative machine learning models.
+I'm a Software Engineering undergrad who loves spending time at the intersection of clean UI design and solid systems logic. Most of my work revolves around building responsive frontend interfaces, wiring them up to relational databases, and experimenting with practical machine learning integrations.
 
-- 🎓 Pursuing a **B.S. in Software Engineering**.
-- 🌱 Currently engineering **PlantIQ**, a machine learning project for smart leaf-based disease detection utilizing the MobileNetV2 architecture.
-- 💼 Serving as the President of the **CASE Thinkers Forum & Literary Society** (Founded 2021).
-- 🤝 Open for freelance contracts, full-time engineering roles, and open-source contributions.
+- **Current Focus:** Building **PlantIQ**, a computer vision tool that detects plant diseases from leaf imagery using **MobileNetV2**.
+- **On Campus:** Serving as President of the **CASE Thinkers Forum & Literary Society** (est. 2021), where I lead student initiatives, debates, and literary events.
+- **What's Next:** Open to frontend/full-stack internships, freelance builds, and collaborating on open-source web projects.
 
 ---
 
-## 🛠️ Technical Architecture
+### Tech Stack & Tooling
 
 <div align="center">
-
-### Frontend & UI Ecosystem
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,figma&theme=dark" alt="Frontend Tech" />
-
-### Backend, Database & Workflow
-<img src="https://skillicons.dev/icons?i=java,mysql,wordpress,git,github&theme=dark" alt="Backend Tech" />
-
+  <table>
+    <tr>
+      <td align="center" width="400">
+        <b>Frontend & Design</b><br /><br />
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,react,figma&theme=dark" alt="Frontend Stack" />
+        <br /><br />
+        <sub>HTML5 &bull; CSS3 &bull; JavaScript (ES6+) &bull; React &bull; Figma</sub>
+      </td>
+      <td align="center" width="400">
+        <b>Backend, Data & Workflow</b><br /><br />
+        <img src="https://skillicons.dev/icons?i=java,py,mysql,wordpress,git,github&theme=dark" alt="Backend Stack" />
+        <br /><br />
+        <sub>Java &bull; Python &bull; MySQL &bull; WordPress &bull; Git &amp; GitHub</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🚀 Featured Engineering
+### Selected Projects
 
-| Project & Repository | Technical Overview | Core Stack |
-| :--- | :--- | :--- |
-| 🍃 **PlantIQ (Research & Dev)** | Engineering a smart leaf-based disease detection system using optimized machine learning architectures for rapid botanical diagnostics. | `MobileNetV2`, `Python`, `ML/CV` |
-| 💊 **[Pharmacy Management System](https://github.com/Abdul-Ahad-Qureshi/Pharmacy-Management-System)** | Enterprise-grade desktop application to automate inventory tracking, streamline pharmaceutical sales, and manage database records securely. | `Java`, `MySQL`, `OOP` |
-| 🪙 **[Coin Toss Flip](https://github.com/Abdul-Ahad-Qureshi/Coin-Toss-Flip)** | Interactive web application emphasizing engaging UI/UX animations, responsive DOM manipulation, and randomized state logic. | `JS (ES6+)`, `HTML5`, `CSS3` |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🍃 PlantIQ <sub>(In Progress)</sub></h4>
+      <p>A smart botanical diagnostic tool built to identify crop and plant diseases directly from leaf photos. Focused on keeping model inference lightweight and accurate using transfer learning.</p>
+      <p>
+        <kbd>Python</kbd> <kbd>MobileNetV2</kbd> <kbd>Computer Vision</kbd>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💊 <a href="https://github.com/Abdul-Ahad-Qureshi/Pharmacy-Management-System">Pharmacy Management System</a></h4>
+      <p>A desktop application designed to replace manual ledger tracking in pharmacies. Handles stock alerts, billing workflows, and secure prescription records backed by a relational database.</p>
+      <p>
+        <kbd>Java</kbd> <kbd>MySQL</kbd> <kbd>OOP</kbd>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🪙 <a href="https://github.com/Abdul-Ahad-Qureshi/Coin-Toss-Flip">Coin Toss Flip</a></h4>
+      <p>A lightweight interactive web app built to practice smooth CSS keyframe animations, clean DOM state updates, and responsive layout design without relying on heavy frameworks.</p>
+      <p>
+        <kbd>JavaScript (ES6+)</kbd> <kbd>HTML5</kbd> <kbd>CSS3</kbd>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Verified Credentials & Training
+### Certifications & Training
 
 <details>
-<summary><b>👉 Click to Expand Professional Certifications (Udemy & Institutes)</b></summary>
+<summary><b>View Completed Courses & Verified Certificates (5)</b></summary>
 <br />
 
-| Issuer | Certification Title | Verification Link |
+| Course / Program | Provider | Credential |
 | :--- | :--- | :---: |
-| **Udemy** | Modern JavaScript: Basic to Advanced | [View Certificate 🔗](https://www.udemy.com/certificate/UC-1d407ea4-8dd7-462f-a9c1-f716feb639d0/) |
-| **Udemy** | Advanced HTML & CSS Architecture | [View Certificate 🔗](https://www.udemy.com/certificate/UC-913a5abd-9761-4c4d-a4b4-87fd7cc380ae/) |
-| **Udemy** | WordPress Website Engineering (via Hostinger) | [View Certificate 🔗](https://www.udemy.com/certificate/UC-a0683a03-e0d3-4f98-950c-56574d952ca9/) |
-| **Udemy** | Viral Video Editing & Content Optimization (CapCut) | [View Certificate 🔗](https://www.udemy.com/certificate/UC-72ad97d5-7282-42d9-b7ff-279020e6cae7/) |
-| **Buraq Institute** | Full-Stack Web Development Training | *Verified Completed* |
+| **Modern JavaScript: Basic to Advanced** | Udemy | [Verify ↗](https://www.udemy.com/certificate/UC-1d407ea4-8dd7-462f-a9c1-f716feb639d0/) |
+| **Advanced HTML & CSS Architecture** | Udemy | [Verify ↗](https://www.udemy.com/certificate/UC-913a5abd-9761-4c4d-a4b4-87fd7cc380ae/) |
+| **WordPress Website Engineering (via Hostinger)** | Udemy | [Verify ↗](https://www.udemy.com/certificate/UC-a0683a03-e0d3-4f98-950c-56574d952ca9/) |
+| **Viral Video Editing & Content Optimization (CapCut)** | Udemy | [Verify ↗](https://www.udemy.com/certificate/UC-72ad97d5-7282-42d9-b7ff-279020e6cae7/) |
+| **Full-Stack Web Development Training** | Buraq Institute | *Completed* |
 
 </details>
 
 ---
 
-## 📊 Telemetry & Performance Banners
+### Contribution Activity
 
-<!-- Full Width Big Banners -->
 <div align="center">
-
-  <br /><br />
-
   <a href="https://github.com/Abdul-Ahad-Qureshi">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Ahad-Qureshi&theme=tokyo-night&hide_border=true&color=38BDF8" alt="Activity Graph Banner" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Ahad-Qureshi&bg_color=0d1117&color=94a3b8&line=38bdf8&point=f8fafc&area=true&hide_border=true" alt="Abdul Ahad's GitHub Activity Graph" width="100%" />
   </a>
-
 </div>
 
 <br />
 
 <div align="center">
-  <sub>Built with precision &bull; "Code is not just written, it’s crafted." ✨</sub>
+  <sub>Designed & maintained by <b>Abdul Ahad Qureshi</b> &bull; Always learning, always shipping.</sub>
 </div>
