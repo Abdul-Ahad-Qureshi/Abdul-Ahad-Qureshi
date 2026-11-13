@@ -177,16 +177,22 @@ I'm a **Software Engineer** (B.S. Software Engineering, **Sir Syed CASE Institut
 <br />
 
 <div align="center">
-  <sub>Engineered by <b>Abdul Ahad Qureshi</b> &bull; Islamabad, Pakistan</sub>
-</div>
-
-<div align="center">
   <a href="https://github.com/Abdul-Ahad-Qureshi">
     <img src="https://streak-stats.demolab.com?user=Abdul-Ahad-Qureshi&theme=dark&hide_border=true&background=0D1117&stroke=1E293B&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" width="65%" />
   </a>
   <br /><br />
   <a href="https://github.com/Abdul-Ahad-Qureshi">
     <img src="https://ghchart.rshah.org/38bdf8/Abdul-Ahad-Qureshi" alt="Abdul Ahad's Contribution Calendar" width="100%" />
+  </a>
+</div>
+
+<br />
+
+### 📈 GitHub Activity
+
+<div align="center">
+  <a href="https://github.com/Abdul-Ahad-Qureshi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdul-Ahad-Qureshi&theme=github_dark" alt="Abdul Ahad's GitHub Summary" width="100%" />
   </a>
 </div>
 
