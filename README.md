@@ -167,7 +167,10 @@ I'm a **Software Engineer** (B.S. Software Engineering, **Sir Syed CASE Institut
 
 <div align="center">
   <a href="https://github.com/Abdul-Ahad-Qureshi">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Ahad-Qureshi&bg_color=0d1117&color=94a3b8&line=38bdf8&point=f8fafc&area=true&hide_border=true" alt="Abdul Ahad's GitHub Activity Graph" width="100%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdul-Ahad-Qureshi&theme=github_dark" alt="GitHub Stats" height="165" />
+  </a>
+  <a href="https://github.com/Abdul-Ahad-Qureshi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdul-Ahad-Qureshi&theme=github_dark" alt="Top Languages" height="165" />
   </a>
 </div>
 
