@@ -1,12 +1,14 @@
 <div align="center">
 
+  <!-- Animated Hero Banner -->
   <a href="https://abdul-ahad-dev.framer.website/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=70&lines=Hey%2C+I'm+Abdul+Ahad+Qureshi+%F0%9F%91%8B;Frontend-Focused+Full-Stack+Developer;Software+Engineering+Undergrad;Building+Fast%2C+Accessible+Web+Interfaces" alt="Typing SVG" width="100%" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&height=70&lines=Abdul+Ahad+Qureshi;Software+Engineer+%E2%80%94+Web+%26+AI%2FML+Systems;Deep+Learning+%E2%80%A2+Threat+Intelligence+%E2%80%A2+Full-Stack+Dev;B.S.+Software+Engineering+(CASE+Islamabad)" alt="Typing SVG" width="100%" />
   </a>
 
+  <!-- Quick Links & Contact Badges -->
   <p align="center">
     <a href="https://abdul-ahad-dev.framer.website/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-abdul--ahad--dev-0F172A?style=for-the-badge&logo=framer&logoColor=38BDF8&labelColor=090D16" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Live_Portfolio-0F172A?style=for-the-badge&logo=framer&logoColor=38BDF8&labelColor=090D16" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/abdul-ahad-developer/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=090D16" alt="LinkedIn" />
@@ -14,70 +16,87 @@
     <a href="mailto:ahad97577@gmail.com">
       <img src="https://img.shields.io/badge/Email-ahad97577%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=090D16" alt="Email" />
     </a>
+    <img src="https://img.shields.io/badge/Location-Islamabad%2C_PK-0F172A?style=for-the-badge&logo=googlemaps&logoColor=10B981&labelColor=090D16" alt="Location" />
   </p>
 
 </div>
 
 ---
 
-### About Me
+### 👋 About Me
 
-I'm a Software Engineering undergrad who loves spending time at the intersection of clean UI design and solid systems logic. Most of my work revolves around building responsive frontend interfaces, wiring them up to relational databases, and experimenting with practical machine learning integrations.
+I'm a **Software Engineer** (B.S. Software Engineering, **Sir Syed CASE Institute of Technology**, 2022–2026) working across full-stack web development, deep learning, and cybersecurity tooling. I enjoy taking complex problems—whether that's training hybrid vision transformers on tens of thousands of images or intercepting zero-day phishing domains—and turning them into clean, reliable software.
 
-- **Current Focus:** Building **PlantIQ**, a computer vision tool that detects plant diseases from leaf imagery using **MobileNetV2**.
-- **On Campus:** Serving as President of the **CASE Thinkers Forum & Literary Society** (est. 2021), where I lead student initiatives, debates, and literary events.
-- **What's Next:** Open to frontend/full-stack internships, freelance builds, and collaborating on open-source web projects.
-
----
-
-### Tech Stack & Tooling
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="400">
-        <b>Frontend & Design</b><br /><br />
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,react,figma&theme=dark" alt="Frontend Stack" />
-        <br /><br />
-        <sub>HTML5 &bull; CSS3 &bull; JavaScript (ES6+) &bull; React &bull; Figma</sub>
-      </td>
-      <td align="center" width="400">
-        <b>Backend, Data & Workflow</b><br /><br />
-        <img src="https://skillicons.dev/icons?i=java,py,mysql,wordpress,git,github&theme=dark" alt="Backend Stack" />
-        <br /><br />
-        <sub>Java &bull; Python &bull; MySQL &bull; WordPress &bull; Git &amp; GitHub</sub>
-      </td>
-    </tr>
-  </table>
-</div>
+- 🌿 **Completed Research & FYP:** Designed and trained **PlantIQ**, a plant disease diagnostic pipeline using **Coordinate Attention & Hybrid Transformers (CA-HT)** across **54,000 PlantVillage images**.
+- 🛡️ **Recent Engineering:** Built real-time phishing interception and threat intelligence tools during my AI/ML internship at **Zynvex Solutions**, following earlier web engineering work at **HA Technologies**.
+- 🎙️ **Campus Leadership:** Served as President of the **CASE Thinkers Forum & Literary Society** (est. 2021), leading student operations, proposals, and university-wide events.
+- 🤝 **Open To:** Software Engineering, AI/ML, and Full-Stack roles, as well as high-impact freelance projects.
 
 ---
 
-### Selected Projects
+### 💼 Experience
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🍃 PlantIQ <sub>(In Progress)</sub></h4>
-      <p>A smart botanical diagnostic tool built to identify crop and plant diseases directly from leaf photos. Focused on keeping model inference lightweight and accurate using transfer learning.</p>
+      <h4>🤖 AI / Machine Learning Intern</h4>
+      <p><b>Zynvex Solutions</b> &bull; <i>Remote</i><br /><sub>July 2026 – August 2026</sub></p>
+      <ul>
+        <li>Developed a cyber threat intelligence platform for zero-day phishing interception and automated DNS verification.</li>
+        <li>Engineered real-time brand impersonation detection to catch fraudulent lookalike domains early.</li>
+        <li>Built URL defanging utilities and automated SOC SIEM blocklist exports for security operations teams.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Junior Web Developer</h4>
+      <p><b>HA Technologies</b> &bull; <i>Islamabad, Pakistan</i><br /><sub>July 2025 – September 2025</sub></p>
+      <ul>
+        <li>Built and maintained scalable web applications from functional specifications through deployment.</li>
+        <li>Designed and connected secure relational databases to handle core application workflows.</li>
+        <li>Worked closely with senior engineers to translate client and product requirements into production code.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Featured Engineering & Research
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🍃 PlantIQ — Plant Disease Detection <sub>(Completed FYP)</sub></h4>
+      <p><i>September 2025 – July 2026</i></p>
+      <p>End-to-end deep learning pipeline for automated leaf disease classification. Processed and structured <b>54,000 PlantVillage images</b> and implemented a custom <b>Coordinate Attention &amp; Hybrid Transformers (CA-HT)</b> architecture for high-accuracy botanical diagnostics.</p>
       <p>
-        <kbd>Python</kbd> <kbd>MobileNetV2</kbd> <kbd>Computer Vision</kbd>
+        <kbd>Python</kbd> <kbd>Hybrid Transformers (CA-HT)</kbd> <kbd>Coordinate Attention</kbd> <kbd>Computer Vision</kbd>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>💊 <a href="https://github.com/Abdul-Ahad-Qureshi/Pharmacy-Management-System">Pharmacy Management System</a></h4>
-      <p>A desktop application designed to replace manual ledger tracking in pharmacies. Handles stock alerts, billing workflows, and secure prescription records backed by a relational database.</p>
+      <h4>🛡️ ZeroBait — Cyber Threat Intelligence Platform</h4>
+      <p><i>July 2026 – August 2026</i></p>
+      <p>Real-time security platform engineered for zero-day phishing interception, live DNS verification, and brand impersonation detection. Includes built-in URL defanging and one-click blocklist exports formatted for SOC SIEM ingestion.</p>
       <p>
-        <kbd>Java</kbd> <kbd>MySQL</kbd> <kbd>OOP</kbd>
+        <kbd>Python</kbd> <kbd>Threat Intelligence</kbd> <kbd>DNS Verification</kbd> <kbd>SIEM Integration</kbd>
       </p>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h4>🪙 <a href="https://github.com/Abdul-Ahad-Qureshi/Coin-Toss-Flip">Coin Toss Flip</a></h4>
-      <p>A lightweight interactive web app built to practice smooth CSS keyframe animations, clean DOM state updates, and responsive layout design without relying on heavy frameworks.</p>
+    <td width="50%" valign="top">
+      <h4>💊 <a href="https://github.com/Abdul-Ahad-Qureshi/Pharmacy-Management-System">Pharmacy Management System</a></h4>
+      <p><i>March 2024 – June 2024</i></p>
+      <p>Desktop system built to automate pharmacy inventory, prescription record-keeping, and sales transactions. Backed by normalized relational database schemas and optimized SQL queries for fast reporting.</p>
       <p>
-        <kbd>JavaScript (ES6+)</kbd> <kbd>HTML5</kbd> <kbd>CSS3</kbd>
+        <kbd>Java</kbd> <kbd>MySQL</kbd> <kbd>OOP</kbd> <kbd>Relational Schema Design</kbd>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🪙 <a href="https://github.com/Abdul-Ahad-Qureshi/Coin-Toss-Flip">Coin Toss Flip</a></h4>
+      <p><i>Interactive Web App</i></p>
+      <p>Lightweight frontend web application focused on fluid CSS3 keyframe animations, responsive layout design, and clean DOM state management using vanilla ES6+ JavaScript.</p>
+      <p>
+        <kbd>JavaScript (ES6+)</kbd> <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>UI/UX</kbd>
       </p>
     </td>
   </tr>
@@ -85,25 +104,66 @@ I'm a Software Engineering undergrad who loves spending time at the intersection
 
 ---
 
-### Certifications & Training
+### 🛠️ Technical Stack
 
-<details>
-<summary><b>View Completed Courses & Verified Certificates (5)</b></summary>
-<br />
-
-| Course / Program | Provider | Credential |
-| :--- | :--- | :---: |
-| **Modern JavaScript: Basic to Advanced** | Udemy | [Verify ↗](https://www.udemy.com/certificate/UC-1d407ea4-8dd7-462f-a9c1-f716feb639d0/) |
-| **Advanced HTML & CSS Architecture** | Udemy | [Verify ↗](https://www.udemy.com/certificate/UC-913a5abd-9761-4c4d-a4b4-87fd7cc380ae/) |
-| **WordPress Website Engineering (via Hostinger)** | Udemy | [Verify ↗](https://www.udemy.com/certificate/UC-a0683a03-e0d3-4f98-950c-56574d952ca9/) |
-| **Viral Video Editing & Content Optimization (CapCut)** | Udemy | [Verify ↗](https://www.udemy.com/certificate/UC-72ad97d5-7282-42d9-b7ff-279020e6cae7/) |
-| **Full-Stack Web Development Training** | Buraq Institute | *Completed* |
-
-</details>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%" valign="top">
+        <b>Languages</b><br /><br />
+        <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,js,html,css&theme=dark&perline=4" alt="Languages" />
+        <br /><br />
+        <sub>Python &bull; Java &bull; C++ &bull; C#<br />JavaScript (ES6+) &bull; SQL &bull; HTML5 &bull; CSS3</sub>
+      </td>
+      <td align="center" width="33%" valign="top">
+        <b>Frameworks, Databases &amp; Tools</b><br /><br />
+        <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,postgres,git,github,postman,figma&theme=dark&perline=4" alt="Frameworks and Tools" />
+        <br /><br />
+        <sub>React &bull; Node.js &bull; MySQL &bull; PostgreSQL<br />Git &amp; GitHub &bull; Postman &bull; Figma &bull; WordPress</sub>
+      </td>
+      <td align="center" width="33%" valign="top">
+        <b>AI / ML &amp; Security Domains</b><br /><br />
+        <kbd>Hybrid Transformers (CA-HT)</kbd><br /><br />
+        <kbd>Vision Transformers (ViT)</kbd><br /><br />
+        <kbd>Coordinate Attention</kbd> <kbd>MobileNetV2</kbd><br /><br />
+        <kbd>Phishing &amp; DNS Threat Detection</kbd>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### Contribution Activity
+### 🎓 Education & Credentials
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h4>🏛️ Sir Syed CASE Institute of Technology</h4>
+      <p><b>B.S. in Software Engineering</b> &bull; <i>Islamabad, Pakistan (2022 – 2026)</i></p>
+      <ul>
+        <li><b>Key Coursework:</b> Machine Learning, Information Security, Database Management Systems, Design Patterns, Mobile Application Development.</li>
+        <li><b>Final Year Research:</b> Coordinate Attention (CA) &amp; Hybrid Transformers for plant disease detection.</li>
+        <li><b>President, Thinkers Forum &amp; Literary Society (est. 2021):</b> Directed society operations, student initiatives, and proposals for university-wide gatherings.</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <h4>🏆 Verified Certifications</h4>
+      <ul>
+        <li><b>AI for Professionals &amp; Business Communication</b> — LUMSX <i>(Sept 2025)</i></li>
+        <li><b>Introduction to JavaScript: Basic to Advanced</b> — Udemy <i>(June 2025)</i> &bull; <a href="https://www.udemy.com/certificate/UC-1d407ea4-8dd7-462f-a9c1-f716feb639d0/">Verify ↗</a></li>
+        <li><b>HTML and CSS Advanced</b> — Udemy <i>(June 2025)</i> &bull; <a href="https://www.udemy.com/certificate/UC-913a5abd-9761-4c4d-a4b4-87fd7cc380ae/">Verify ↗</a></li>
+        <li><b>WordPress Website Engineering</b> — Udemy &bull; <a href="https://www.udemy.com/certificate/UC-a0683a03-e0d3-4f98-950c-56574d952ca9/">Verify ↗</a></li>
+        <li><b>Video Editing &amp; Content Optimization</b> — Udemy &bull; <a href="https://www.udemy.com/certificate/UC-72ad97d5-7282-42d9-b7ff-279020e6cae7/">Verify ↗</a></li>
+        <li><b>Full-Stack Web Development</b> — Buraq Institute</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 GitHub Activity
 
 <div align="center">
   <a href="https://github.com/Abdul-Ahad-Qureshi">
@@ -114,5 +174,5 @@ I'm a Software Engineering undergrad who loves spending time at the intersection
 <br />
 
 <div align="center">
-  <sub>Designed & maintained by <b>Abdul Ahad Qureshi</b> &bull; Always learning, always shipping.</sub>
+  <sub>Engineered by <b>Abdul Ahad Qureshi</b> &bull; Islamabad, Pakistan</sub>
 </div>
